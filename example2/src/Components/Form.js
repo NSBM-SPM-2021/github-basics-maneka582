@@ -46,9 +46,9 @@ class Form extends Component {
                 <div className="form-group">
                     <label>Category</label>
                 <select ref={this.categoryRef} className="form-control">
-                    <option value="cars">Cars</option>
-                    <option value="nature">Nature</option>
-                    <option value="it">IT</option>
+                    <option value="love">love</option>
+                    <option value="family">life</option>
+                    <option value="ilife">life</option>
                     <option value="books">Books</option>
                     <option value="sport">Sport</option>
                 </select>

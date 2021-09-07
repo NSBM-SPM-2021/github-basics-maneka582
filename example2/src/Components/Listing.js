@@ -14,4 +14,21 @@ class Listing extends Component {
                         info={this.props.posts[post]}
                         deletePost={this.props.deletePost}
                     />
-                    
+ 
+                ) )}
+            </React.Fragment></div>
+        )
+    }
+ 
+    render() { 
+        return ( 
+                <div classname="post_list">
+                    {this.showPosts() }
+                </div>
+ 
+ 
+         );
+    }
+}
+ 
+export default Listing;

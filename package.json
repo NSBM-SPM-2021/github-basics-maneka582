@@ -1,0 +1,19 @@
+{
+  "name": "spm",
+  "version": "1.0.0",
+  "description": "The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSBM-SPM-2021/github-basics-maneka582.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NSBM-SPM-2021/github-basics-maneka582/issues"
+  },
+  "homepage": "https://github.com/NSBM-SPM-2021/github-basics-maneka582#readme"
+}
